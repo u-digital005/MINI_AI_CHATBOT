@@ -16,3 +16,4 @@ A lightweight, rule-based chatbot written in Python. This mini-project demonstra
    ```bash
    AI_chatbot.py
    
+<img width="973" height="818" alt="image" src="https://github.com/user-attachments/assets/91ae92b4-9b5f-4f8f-8a8c-c62b9ef4725b" />
