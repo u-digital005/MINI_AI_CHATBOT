@@ -14,5 +14,5 @@ A lightweight, rule-based chatbot written in Python. This mini-project demonstra
 3. Open your terminal or command prompt.
 4. Run the script using the following command:
    ```bash
-   python chatbot.py
+   AI_chatbot.py
    
